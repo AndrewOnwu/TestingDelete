@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CanvasReplyQaTask/.vs
+/CanvasReplyQaTask/CanvasReplyQaTask/bin/Debug/net6.0
+/CanvasReplyQaTask/CanvasReplyQaTask/obj
+/CanvasReplyQaTask/CanvasReplyQaTask/bin/Debug/net7.0
